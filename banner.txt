@@ -1,0 +1,30 @@
+............................................................................                                                                       
+:  _____ _         _         _____         _                               :
+: | __  | |___ ___| |_      |  _  |___ ___| |_       ___ ___ ___ ___ ___   :
+: | __ -| | .'|  _| '_|     |     |  _|  _|   |     |  _| -_| . | . |_ -|  :
+: |_____|_|__,|___|_,_|_____|__|__|_| |___|_|_|_____|_| |___|  _|___|___|  :
+:                     |_____|                 |_____|       |_|            :
+:..........................................................................:
+: Linux Installer -> Black_Arch_Mechanic                                   :
+:                                                                          :
+: install all kali linux and black arch tools from the repos               :
+:                                                                          :
+:                                                                          :
+:Usage: sudo perl install.pl <os|debian|arch> <command>                    :
+:                                                                          :
+:All commands|                                                             :
+:            |install_arch -> install all black arch repos on your system  :
+:            |install_kali -> install all kali tools on your system        :
+:            |install*     -> install both all kali and debian tools       :
+:                                                                          :
+: Example - sudo perl install.pl debian install_arch                       :
+: Example - sudo perl install.pl debian install*                           :
+: Example - sudo perl install.pl arch   install_arch                       :
+: Example - sudo perl install.pl arch   install*                           :
+:                                                                          :
+: Total tools list counted -< 5,708 tools possible to install              :
+:--------------------------------------------------------------------------:
+
+
+
+
